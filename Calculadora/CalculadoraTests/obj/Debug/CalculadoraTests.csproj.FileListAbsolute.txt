@@ -1,0 +1,9 @@
+c:\users\iasmy\documents\visual studio 2015\Projects\Calculadora\CalculadoraTests\obj\Debug\CalculadoraTests.csprojResolveAssemblyReference.cache
+c:\users\iasmy\documents\visual studio 2015\Projects\Calculadora\CalculadoraTests\bin\Debug\CalculadoraTests.dll
+c:\users\iasmy\documents\visual studio 2015\Projects\Calculadora\CalculadoraTests\bin\Debug\CalculadoraTests.pdb
+c:\users\iasmy\documents\visual studio 2015\Projects\Calculadora\CalculadoraTests\bin\Debug\Calculadora.dll
+c:\users\iasmy\documents\visual studio 2015\Projects\Calculadora\CalculadoraTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\iasmy\documents\visual studio 2015\Projects\Calculadora\CalculadoraTests\bin\Debug\Calculadora.pdb
+c:\users\iasmy\documents\visual studio 2015\Projects\Calculadora\CalculadoraTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\users\iasmy\documents\visual studio 2015\Projects\Calculadora\CalculadoraTests\obj\Debug\CalculadoraTests.dll
+c:\users\iasmy\documents\visual studio 2015\Projects\Calculadora\CalculadoraTests\obj\Debug\CalculadoraTests.pdb
